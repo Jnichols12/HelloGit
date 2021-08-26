@@ -14,6 +14,8 @@ public class Hello {
 		
 		System.out.println("Jake Nichols");
 		System.out.println("Computer Science");
+		System.out.println("Kareem Keshk");
+		System.out.println("Computer Science");
 		
 	}
 	
